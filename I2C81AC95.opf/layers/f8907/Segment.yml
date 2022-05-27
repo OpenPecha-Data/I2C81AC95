@@ -1,0 +1,104 @@
+id: 0221c7ea79044c929360e85ea6554036
+annotation_type: Segment
+revision: '00001'
+annotations:
+  4ecf7bc6ab6d48b49bd3cf966608bbd3:
+    span:
+      start: 0
+      end: 0
+    metadata: {}
+  79548ca4a73c404081e245a5ff2bbcf8:
+    span:
+      start: 3
+      end: 3
+    metadata: {}
+  4046821ffa834888ad6f1035f2e4003f:
+    span:
+      start: 6
+      end: 6
+    metadata: {}
+  eb3ce91f79694efab7db8c572d04cbdf:
+    span:
+      start: 9
+      end: 9
+    metadata: {}
+  905a59d1f531490ea53ee60d8d588cd3:
+    span:
+      start: 12
+      end: 12
+    metadata: {}
+  63ab67c07684497c86a715d51b3d6cfb:
+    span:
+      start: 15
+      end: 15
+    metadata: {}
+  c385b64ce41642cdb4ffcda1718ddf17:
+    span:
+      start: 18
+      end: 18
+    metadata: {}
+  5545619e4de242ca822b901062d525a2:
+    span:
+      start: 21
+      end: 21
+    metadata: {}
+  992918f2973144c9a3ae6b1c9bb56452:
+    span:
+      start: 24
+      end: 24
+    metadata: {}
+  73aeeb189e9241318e56456972dfc8cf:
+    span:
+      start: 27
+      end: 27
+    metadata: {}
+  5c59bc52a61542629d9a2cf4fe166530:
+    span:
+      start: 30
+      end: 30
+    metadata: {}
+  a733cfc150ec4ea3ad37e5c3351e30a0:
+    span:
+      start: 33
+      end: 33
+    metadata: {}
+  315433b2faef44b9b5e61390c0120ecf:
+    span:
+      start: 36
+      end: 36
+    metadata: {}
+  01101d36400540fa807b9174900ab965:
+    span:
+      start: 39
+      end: 39
+    metadata: {}
+  cd3f2748e78d45b1905c0322d6473d93:
+    span:
+      start: 42
+      end: 42
+    metadata: {}
+  a793292c821c477f8f829b84183fcaca:
+    span:
+      start: 45
+      end: 45
+    metadata: {}
+  9eb03e43928e4dfbb23e2f8ddf252618:
+    span:
+      start: 48
+      end: 48
+    metadata: {}
+  10664f5e076f4b328245f59e316a042e:
+    span:
+      start: 51
+      end: 51
+    metadata: {}
+  7f085023523a4f35aa9e9d91705a891b:
+    span:
+      start: 54
+      end: 54
+    metadata: {}
+  534215f1b1e747c4ab6f3423cab0335f:
+    span:
+      start: 57
+      end: 57
+    metadata: {}
